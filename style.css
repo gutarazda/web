@@ -14,7 +14,18 @@ body {
   Color: blue;
   font-size: 50 ;
 }
-
+.roa {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-style: normal;
+  Color: pink;
+  font-size: 40 ;
+}
+.blanc {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-style: normal;
+  Color: gold;
+  font-size: 25 ;
+}
 .duda {
   font-family: "UnifrakturMaguntia", cursive;
   font-style: normal;
