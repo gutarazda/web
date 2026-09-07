@@ -92,3 +92,31 @@ body {
 a{
   color: red;
 }
+
+.tarjeta-blog {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.blogti {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-style: normal;
+  Color: gold;
+}
+.blog {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-style: normal;
+  Color: #FFFCC7;
+}
+.white {
+  font-family: "Arial";
+  font-style: normal;
+  Color: white;
+  font-size:10
+}
+
